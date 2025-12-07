@@ -281,22 +281,13 @@ GROUP BY category;
 
 ---
 
-## ✍ Author — **ABHINAV TYAGI (Zero Analyst)**
+## ✍ Author — **ABHINAV TYAGI**
 
 If you found this project helpful, connect with me here:
 
-🌐 **YouTube:** [https://www.youtube.com/@zero_analyst](https://www.youtube.com/@zero_analyst)
-📸 **Instagram:** [https://www.instagram.com/zero_analyst/](https://www.instagram.com/zero_analyst/)
-💼 **LinkedIn:** [https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/najirr)
-💬 **Discord Community:** [https://discord.gg/36h5f2Z5PK](https://discord.gg/36h5f2Z5PK)
+💼 **LinkedIn:** [[https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/abhinav-tyagi-649779282/)]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/abhinav-tyagi-649779282/))
 
 ---
 
 ### ⭐ If you like this project, please give a star to the repository!
 
----
-
-Your README is now complete and GitHub-ready 🚀
-If you want, I can also create **project banner, folder structure, ERD diagram, or Jupyter notebook report** for extended presentation.
-
-Would you like a **project cover banner image** for GitHub?
