@@ -2,7 +2,7 @@
 
 ![](https://github.com/108ABHINAV/netflix_sql_project/blob/main/logo.png)
 
-## 📌 Overview
+##  Overview
 
 I’ve always been curious about what Netflix really offers — Do they have more movies or TV shows? Which countries produce the most content? What kind of genres dominate the platform?
 So I decided to explore the Netflix dataset using SQL. With a series of analytical queries, I tried to answer real business-style questions, uncover trends, and get a clearer picture of Netflix content.
@@ -10,7 +10,7 @@ This project helped me extract insights and strengthen my SQL skills through han
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The purpose of this project was to dig into the Netflix Movies & TV Shows dataset and uncover meaningful insights that could answer real analytical questions. Throughout the project, my focus was to:
 
@@ -24,11 +24,11 @@ The purpose of this project was to dig into the Netflix Movies & TV Shows datase
 * Build reusable SQL queries for real business use cases
 
 Dataset URL:
-🔗 [https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+ [https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ---
 
-## 🗂 Dataset Schema
+##  Dataset Schema
 
 ```sql
 CREATE TABLE netflix (
@@ -49,7 +49,7 @@ CREATE TABLE netflix (
 
 ---
 
-## 🔍 Business Problems, SQL Queries & Insights
+##  Business Problems, SQL Queries & Insights
 
 ### **1. Count Movies vs TV Shows**
 
@@ -271,7 +271,7 @@ GROUP BY category;
 
 ---
 
-## 📊 Findings & Conclusion
+##  Findings & Conclusion
 
 * Netflix hosts a wide variety of content with Movies and TV Shows distributed across multiple genres.
 * Ratings reveal the type of audience Netflix mostly targets.
@@ -281,13 +281,13 @@ GROUP BY category;
 
 ---
 
-## ✍ Author — **ABHINAV TYAGI**
+##  Author — **ABHINAV TYAGI**
 
 If you found this project helpful, connect with me here:
 
-💼 **LinkedIn:** [(https://www.linkedin.com/in/abhinav-tyagi-649779282/)]
+ **LinkedIn:** [(https://www.linkedin.com/in/abhinav-tyagi-649779282/)]
 
 ---
 
-### ⭐ If you like this project, please give a star to the repository!
+###  If you like this project, please give a star to the repository!
 
