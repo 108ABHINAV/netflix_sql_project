@@ -285,7 +285,7 @@ GROUP BY category;
 
 If you found this project helpful, connect with me here:
 
-💼 **LinkedIn:** [[https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/abhinav-tyagi-649779282/)]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/abhinav-tyagi-649779282/))
+💼 **LinkedIn:** [(https://www.linkedin.com/in/abhinav-tyagi-649779282/)]
 
 ---
 
